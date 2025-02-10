@@ -36,4 +36,3 @@ antigen apply
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
 
 
-alias nvim9='/root/nvim_tarball/nvim-linux64/bin/nvim'
