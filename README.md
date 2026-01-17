@@ -2,6 +2,10 @@
 
 Dotfiles management
 
+> [!NOTE]  
+> Follow the guide below for Linux (usually Debian distros) and MacOS (Homebrew)
+
+
 Guides:
 
 - https://venthur.de/2021-12-19-managing-dotfiles-with-stow.html ([archive.md](https://archive.md/DGR12))
